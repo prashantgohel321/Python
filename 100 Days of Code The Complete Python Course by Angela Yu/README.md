@@ -17,3 +17,13 @@ Day 008: Functions with Inputs & Caesar Cipher Project
 Day 009: Dictionaries, Nesting, and the Secret Auction
 
 Day 010: Functions with Outputs and the Calculator Project
+
+Day 11: The Blackjack Capstone Project
+
+Day 12: Scope & The Number Guessing Game
+
+Day 13: Mastering the Art of Debugging
+
+Day 14: The Higher Lower Game Project
+
+Day 15: The Coffee Machine Project
