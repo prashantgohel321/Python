@@ -37,3 +37,14 @@ Day 018: Turtle Graphics, Tuples, and GUI Art
 Day 019: Instances, State, and Higher-Order Functions
 
 Day 020: Building the Snake Game - Part 1
+
+Day 021: Building the Snake Game - Part 2
+
+Day 022: Building the Famous Pong Game
+
+Day 023: The Turtle Crossing Game (Capstone Project)
+
+Day 024: Working with Files, Directories, and Paths
+
+Day 025: Working with CSV Data and the Pandas Library
+
