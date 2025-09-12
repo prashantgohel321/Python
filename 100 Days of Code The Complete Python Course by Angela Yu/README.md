@@ -48,3 +48,12 @@ Day 024: Working with Files, Directories, and Paths
 
 Day 025: Working with CSV Data and the Pandas Library
 
+Day 026: List and Dictionary Comprehensions
+
+Day 027: Tkinter, GUI Programs, and Advanced Arguments
+
+Day 028: Building a GUI Pomodoro Timer with Tkinter
+
+Day 029: Building a Password Manager GUI
+
+Day 030: Errors, Exceptions, and JSON Data Files
