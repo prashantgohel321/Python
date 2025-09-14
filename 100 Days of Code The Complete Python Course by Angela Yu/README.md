@@ -57,3 +57,43 @@ Day 028: Building a GUI Pomodoro Timer with Tkinter
 Day 029: Building a Password Manager GUI
 
 Day 030: Errors, Exceptions, and JSON Data Files
+
+Day 31: Capstone Project - Flash Card App
+
+Day 32: Sending Email (SMTP) and Managing Dates (datetime)
+
+Day 33: API Endpoints & API Parameters - ISS Overhead Notifier
+
+Day 34: APIs & GUI - The Quizzler App
+
+Day 35: API Keys, Authentication & SMS
+
+Day 36: Stock Trading News Alert Project
+
+Day 37: Advanced API Requests & Habit Tracker
+
+Day 38: Workout Tracking with Natural Language Processing & Google Sheets
+
+Day 39: Capstone Project - Flight Deal Finder (Part 1)
+
+Day 40: Capstone Project - Flight Deal Finder (Part 2)
+
+Day 41: Introduction to Web Development with HTML
+
+Day 42: Intermediate HTML - Structure, Lists, and Links
+
+Day 43: Introduction to CSS
+
+Day 44: Intermediate CSS - The Box Model & Typography
+
+Day 45: Web Scraping with Beautiful Soup
+
+Day 46: Musical Time Machine
+
+Day 47: Amazon Price Tracker
+
+Day 48: Selenium WebDriver & Game Playing Bot
+
+Day 49: Automated Gym Booking Bot with Selenium
+
+Day 50: Auto Tinder Swiping Bot
