@@ -1,30 +1,30 @@
-# Python Programs 01 to 05
+# 🐍 My Python Learning Journey
 
-> ### 01. Write a simple Python Program to INPUT two variables and print Addition, Subtraction, Multiplication and Division of both numbers. 
+Welcome! This repository is my personal collection of Python projects, coding challenges, and exercises. It primarily documents my progress through **Dr. Angela Yu's "100 Days of Code: The Complete Python Pro Bootcamp"**.
 
-> ### 02. Write a program to input 2 number and an arithmetic operator. Display the result accordingly. 
-
-> ### 03. Write a program to input Principal Amount, Rate and Year and display Simple Interest. 
-
-> ### 04. Write a program to input Principal Amount, Rate and Year and display Compound Interest.
-
-> ### 05. Write a program to input radius of a circle, and print area of that circle. 
+This space serves as a living journal of my journey to master Python, track my improvement, and build a portfolio of my skills.
 
 ---
 
-# Programs 06 to 10
+## 📂 Repository Contents
 
-> ### 06. Write a program to input a number and print whether it is Even or Odd Number. 
+* **`📁 100 Days of Code`**: Daily projects and solutions from the 100 Days of Code challenge | Udemy Course by Angela Yu
+* **`📁 Cryptography`**: Implementations of various cryptographic concepts.
+* **`📁 Patterns`**: Scripts for generating different programming patterns to practice logic.
+* **`📁 Programs 1 to 10`**: A look back at my earliest Python programs.
 
+---
 
-> ### 07. Write a program to input age of person and display message as follows 
-- If age < 12 print You are Kid 
-- If age between 12 to 17 print You are teenager 
-- If age between 18 to 60 print you are Adult 
-- If age > 60 print You are Senior Citizen  
+## 🛠️ Tech Stack
 
-> ### 08. Write a Python Program to input marks of 4 subjects and display Total, Percentage, Result and Grade. If student is fail (<40) in any subject then Result should be displayed as “FAIL” and Grade should be displayed as “With Held**” 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-> ### 09. Write a program to input a number and display Table of that number. 
+---
 
-> ### 10. Write a program to print all numbers which are divisible by 7 between 1 to 200. 
+## 🚀 How to Use
+
+Feel free to clone this repository, explore the code for reference, or follow along with my journey.
+
+```bash
+git clone https://github.com/prashantgohel321/Python.git
+```
